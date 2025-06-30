@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yi Shan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "East Asian Studies Librarianr"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UT Austin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yi.shan@austin.utexas.edu" 
 
   # Academic websites
   academia         : # URL
